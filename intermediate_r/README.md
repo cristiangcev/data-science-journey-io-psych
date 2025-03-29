@@ -1,0 +1,11 @@
+# 📘 Intermediate R
+
+This folder contains my chapter-by-chapter notes and practice code from the **Intermediate R** course in the Associate Data Science track on DataCamp.
+
+## Chapters so far:
+- `01_matrices_factors/`: Matrices and factor variables
+- `02_data_structures_logic/`: Data frames, lists, and conditional logic
+
+Each chapter folder includes:
+- `reflection.md`: A personal summary of what I learned
+- `practice.R`: Code examples and exercises
