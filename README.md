@@ -24,4 +24,6 @@ Hi there! I’m an I/O psychology master's candidate delving into Data Science a
   - `03_loops_control_flow/`: While/for loops and control flow logic  
 
 - `resources/`: Certifications, articles, and reference material
+
+
 Thanks for checking out my learning journey! 🚀
