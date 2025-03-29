@@ -17,8 +17,11 @@ Hi there! I’m an I/O psychology master's candidate delving into Data Science a
 
 
 ## 📂 Structure
-- `01_matrices_factors/`: Notes, code, and reflection
-- `02_data_frames/`: Notes, code, and reflection
-- `resources/`: Certifications and articles
 
+- `intermediate_r/`: Chapters from the *Intermediate R* course  
+  - `01_matrices_factors/`: Matrices and factor variables  
+  - `02_data_structures_logic/`: Data frames, lists, and conditionals  
+  - `03_loops_control_flow/`: While/for loops and control flow logic  
+
+- `resources/`: Certifications, articles, and reference material
 Thanks for checking out my learning journey! 🚀
