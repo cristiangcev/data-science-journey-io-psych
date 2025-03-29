@@ -14,6 +14,7 @@ Hi there! I’m an I/O psychology master's candidate delving into Data Science a
 | 2025-03-27 | Matrices & Factors | Learned how R handles categorical data and matrix operations | [🔗](./01_matrices_factors/) |
 | 2025-03-28 | Data Frames, Lists & Conditionals | Covered how to structure datasets with data frames, work with mixed-type lists, and use logical operators     and control flow | [🔗](./02_data_structures_logic/) |
 | 2025-03-28 | Loops & Control Flow | Practiced while loops, for loops, and control flow using break/next | [🔗](./intermediate_r/03_loops_control_flow/) |
+| 2025-03-29 | Functions | Practiced writing custom functions, default arguments, and nested logic | [🔗](./intermediate_r/04_functions/) |
 
 
 ## 📂 Structure
@@ -21,7 +22,8 @@ Hi there! I’m an I/O psychology master's candidate delving into Data Science a
 - `intermediate_r/`: Chapters from the *Intermediate R* course  
   - `01_matrices_factors/`: Matrices and factor variables  
   - `02_data_structures_logic/`: Data frames, lists, and conditionals  
-  - `03_loops_control_flow/`: While/for loops and control flow logic  
+  - `03_loops_control_flow/`: While/for loops and control flow logic
+  - `04_functions/`: Writing functions, default arguments and nested logic 
 
 - `resources/`: Certifications, articles, and reference material
 
