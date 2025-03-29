@@ -5,6 +5,7 @@ This folder contains my chapter-by-chapter notes and practice code from the **In
 ## Chapters so far:
 - `01_matrices_factors/`: Matrices and factor variables
 - `02_data_structures_logic/`: Data frames, lists, and conditional logic
+- `03_loops_control_flow/`: While loops, for loops, and flow control with break/next
 
 Each chapter folder includes:
 - `reflection.md`: A personal summary of what I learned
