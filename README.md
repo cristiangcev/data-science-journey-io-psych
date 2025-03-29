@@ -17,7 +17,7 @@ Hi there! I’m an I/O psychology master's candidate delving into Data Science a
 
 ## 📂 Structure
 - `01_matrices_factors/`: Notes, code, and reflection
-- `02_data_frames/`: Coming soon
-- `resources/`: Helpful articles and cheat sheets
+- `02_data_frames/`: Notes, code, and reflection
+- `resources/`: Certifications and articles
 
 Thanks for checking out my learning journey! 🚀
