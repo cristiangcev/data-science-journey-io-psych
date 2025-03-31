@@ -7,6 +7,7 @@ This folder contains my chapter-by-chapter notes and practice code from the **In
 - `02_data_structures_logic/`: Data frames, lists, and conditional logic
 - `03_loops_control_flow/`: While loops, for loops, and flow control with break/next
 - `04_functions/`: Writing, nesting, and scoping custom functions
+- - `05_apply_family/`: Using lapply, sapply, and vapply to simplify iteration over data
 
 Each chapter folder includes:
 - `reflection.md`: A personal summary of what I learned
