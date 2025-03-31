@@ -16,6 +16,7 @@ Hi there! I’m an I/O psychology master's candidate delving into Data Science a
 | 2025-03-28 | Loops & Control Flow | Practiced while loops, for loops, and control flow using break/next | [🔗](./intermediate_r/03_loops_control_flow/) |
 | 2025-03-29 | Functions | Practiced writing custom functions, default arguments, and nested logic | [🔗](./intermediate_r/04_functions/) |
 | 2025-03-29 | Apply Family Functions | Practiced using lapply, sapply, and vapply for efficient iteration over lists and vectors | [🔗](./intermediate_r/05_apply_family/) |
+| 2025-03-31 | Utilities | Explored data inspection, regex, and date/time manipulation in R | [🔗](./intermediate_r/06_utilities/) |
 
 
 ## 📂 Structure
@@ -26,6 +27,7 @@ Hi there! I’m an I/O psychology master's candidate delving into Data Science a
   - `03_loops_control_flow/`: While/for loops and control flow logic
   - `04_functions/`: Functions, default arguments and nested logic
   - `05_functions/`: lapply, sapply, and vapply iteration
+  - `06_utilities/`: regex, date/time manipulation, misc
 
 - `resources/`: Certifications, articles, and reference material
 
