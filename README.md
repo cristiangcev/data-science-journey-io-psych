@@ -19,6 +19,8 @@ Hi there! I’m an I/O psychology master's candidate delving into Data Science a
 | 2025-03-31 | Utilities | Explored data inspection, regex, and date/time manipulation in R | [🔗](./intermediate_r/06_utilities/) |
 | 2025-03-31 | Tidyverse - Filter, Arrange, Mutate | Practiced filtering, sorting, and modifying columns using dplyr and gapminder | [🔗](./tidyverse_intro/01_filter_arrange_mutate/) |
 | 2025-04-01| Tidyverse - Data Visualization | Created scatter plots, used log scales, added color/size, and faceted plots with ggplot2 | [🔗](./tidyverse_intro/02_data_visualization/) |
+| 2025-04-02 | Tidyverse - Grouping & Summarizing | Aggregated data using group_by and summarize, then visualized grouped metrics with ggplot2 | [🔗](./tidyverse_intro/03_grouping_summarizing/) |
+
 
 
 
@@ -33,7 +35,8 @@ Hi there! I’m an I/O psychology master's candidate delving into Data Science a
   - `06_utilities/`: regex, date/time manipulation, misc
 - `tidyverse_intro`: Chapters from the *Intro to Tidyverse* course
   - `01_filter_arrange_mutate/`: Filtering, sorting, dplyr, gapminder
-  - `02_data_visualization/:`: Scatter plots, aesthetics, ggplot2
+  - `02_data_visualization/`: Scatter plots, aesthetics, ggplot2
+  - `03_grouping_summarizing/`: group_by, summarize, ggplot2
 
 - `resources/`: Certifications, articles, and reference material
 
