@@ -17,6 +17,9 @@ Hi there! I’m an I/O psychology master's candidate delving into Data Science a
 | 2025-03-29 | Functions | Practiced writing custom functions, default arguments, and nested logic | [🔗](./intermediate_r/04_functions/) |
 | 2025-03-29 | Apply Family Functions | Practiced using lapply, sapply, and vapply for efficient iteration over lists and vectors | [🔗](./intermediate_r/05_apply_family/) |
 | 2025-03-31 | Utilities | Explored data inspection, regex, and date/time manipulation in R | [🔗](./intermediate_r/06_utilities/) |
+| 2025-03-31 | Tidyverse - Filter, Arrange, Mutate | Practiced filtering, sorting, and modifying columns using dplyr and gapminder | [🔗](./tidyverse_intro/01_filter_arrange_mutate/) |
+| 2025-04-01| Tidyverse - Data Visualization | Created scatter plots, used log scales, added color/size, and faceted plots with ggplot2 | [🔗](./tidyverse_intro/02_data_visualization/) |
+
 
 
 ## 📂 Structure
@@ -28,6 +31,9 @@ Hi there! I’m an I/O psychology master's candidate delving into Data Science a
   - `04_functions/`: Functions, default arguments and nested logic
   - `05_functions/`: lapply, sapply, and vapply iteration
   - `06_utilities/`: regex, date/time manipulation, misc
+- `tidyverse_intro`: Chapters from the *Intro to Tidyverse* course
+  - `01_filter_arrange_mutate/`: Filtering, sorting, dplyr, gapminder
+  - `02_data_visualization/:`: Scatter plots, aesthetics, ggplot2
 
 - `resources/`: Certifications, articles, and reference material
 
